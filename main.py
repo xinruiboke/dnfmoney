@@ -6,11 +6,11 @@ import aiohttp
 import json
 
 @register(
-    "astrbot_plugin_redstone",
-    "LumineStory",
+    "dnfmoney",
+    "mowang",
     "查询今日金币价格",
     "1.0.0",
-    "https://github.com/oyxning/astrbot_plugin_redstone"
+    "https://github.com/xinruiboke/dnfmoney"
 )
 class JinBiChaXun(Star):
     def __init__(self, context: Context, config: AstrBotConfig):
