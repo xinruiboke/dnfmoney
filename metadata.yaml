@@ -1,5 +1,6 @@
-name: dnfmoney # 这是你的插件的唯一识别名。
-desc: 根据7881获取今日金币价格 # 插件简短描述
-version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: mowang # 作者
-repo:  # 插件的仓库地址
+name: dnf今日金币价格 # 这是你的插件的唯一识别名。
+desc: Qdnf今日金币价格 # 插件简短描述
+help: 发送指令 今日价格 获取 # 插件的帮助信息
+version: v1.0.0# 插件版本号。格式：v1.1.1 或者 v1.1
+author: 莫忘 # 作者
+repo: https://github.com/xinruiboke/dnfmoney # 插件的仓库地址
